@@ -1,4 +1,4 @@
-class HomeController < ActionController::Base
+class HomeController < ApplicationController
   def main
     render :main
   end

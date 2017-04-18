@@ -1,8 +1,6 @@
 import React from 'react'
 import ReactDOM from 'react-dom'
-
-import styles from './dogs.scss';
-import DogList from './DogList';
+import DogList from '../src/DogList';
 
 ReactDOM.render(
   (
